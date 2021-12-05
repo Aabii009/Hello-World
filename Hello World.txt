@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"Name: Choudhry Ali Abbas"<<endl;
+	cout<<"STD ID: 11634"<<endl;
+	cout<<"Subject: Professional Practices"<<endl;
+	cout<<"Submitted To: Sir Iftikhar Alam"<<endl;
+	cout<<"Title: Major Assignment"<<endl;
+	cout<<endl<<endl<<endl;
+	cout<<"Q) Write a simple Hello World Program on c++."<<endl<<endl;
+	cout<<"Ans. Hello World";
+}
